@@ -5,7 +5,7 @@ class RupeesToUsd {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter rupees : ");
         float rupees = sc.nextFloat();
-        float dollar = rupees/64;
+        float dollar = rupees/74;
         System.out.println("Rupees : "+dollar);
     }
 }
