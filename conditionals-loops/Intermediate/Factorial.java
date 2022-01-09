@@ -5,6 +5,6 @@ public class Factorial{
 		for(int i = 1 ; i<=no;i++){
 		    fact*=i;
 		}
-		System.out.println(no + " factorial is: "+fact);
+		 System.out.println("Factorial of "+no+" is: "+fact);  
 	}
 }
